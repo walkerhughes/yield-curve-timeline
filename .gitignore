@@ -1,0 +1,5 @@
+venv
+.venv
+bigquery_credentials.json 
+.DS_Store
+**/.DS_Store
